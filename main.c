@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[]) {
 	printf("hello,world!\n");
-	eaeh(0,10){
+	each(0,10){
 		printf("%d ",i);
 	}
 	printf("\n");
